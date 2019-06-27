@@ -28,7 +28,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2019 [Hansu Kim](https://github.com/cpuman7).<br />
-This project is [hunkim](https://github.com/hunkim/DeepLearningZeroToAll) licensed.
+This project is [hunkim](http://hunkim.github.io/ml/) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
