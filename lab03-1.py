@@ -14,7 +14,7 @@ W = tf.Variable(5.0)
 
 hypothesis = X * W
 
-cost = tf.reduce_sum(tf.square(hypothesis - Y))
+cost = tf.reduce_mean(tf.square(hypothesis - Y))
 
 learning_rate = 0.1
 gradient = tf.reduce_mean((W * X - Y) * X)
