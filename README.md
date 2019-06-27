@@ -10,11 +10,6 @@
 
 ### 🏠 [Homepage](https://github.com/cpuman7/tensorflow_example)
 
-## Install
-
-```sh
-npm install
-```
 
 ## Author
 
