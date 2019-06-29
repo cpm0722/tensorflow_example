@@ -55,6 +55,8 @@
   * #### ELU
   ReLU에서 x가 음수일 때의 값을 0으로 고정시키지 않고 조절
   * #### Maxout
+  여러 값 중 최댓값을 리턴
+  Image DownScaling 시에 주로 사용
 
 * ### Weight Initializer 선택
   * #### RBM
