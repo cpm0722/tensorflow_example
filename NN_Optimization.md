@@ -48,7 +48,7 @@
   ```
   [ReLU Example Code](https://github.com/hunkim/DeepLearningZeroToAll/blob/master/lab-10-2-mnist_nn.py "GitHub")
   * #### tanh
-  sigmoid의 중심점을 (0, 1)에서 (0, 0)으로 변경시킨 것
+  sigmoid의 중심점을 (0, 0.5)에서 (0, 0)으로 변경시킨 것
   * #### LeakyReLU
   max(0.1x, x)
   ReLU에서 x가 음수일 때의 값을 0이 아닌 0.1x로 변경
