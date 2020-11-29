@@ -8,14 +8,14 @@
 
 > studying tensorflow with &#34;Deeplearning for everyone&#34; on Youtube
 
-### 🏠 [Homepage](https://github.com/cpuman7/tensorflow_example)
+### 🏠 [Homepage](https://github.com/cpm0722/tensorflow_example)
 
 
 ## Author
 
 👤 **Hansu Kim**
 
-* Github: [@cpuman7](https://github.com/cpuman7)
+* Github: [@cpm0722](https://github.com/cpm0722)
 
 ## 🤝 Contributing
 
@@ -27,7 +27,7 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [Hansu Kim](https://github.com/cpuman7).<br />
+Copyright © 2019 [Hansu Kim](https://github.com/cpm0722).<br />
 This project is [hunkim](http://hunkim.github.io/ml/) licensed.
 
 ***
